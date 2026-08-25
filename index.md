@@ -19,9 +19,28 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to age, height, weight, age, gender. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+## Analytics and Usage Data
+
+To understand which features are used and to improve the Application, the Service Provider collects anonymous usage analytics through PostHog, a third-party analytics provider.
+
+The analytics data collected consists solely of:
+
+- Anonymous event names — the names of features or screens accessed (for example, when the AI Coach or Meal Planner is opened)
+- Timestamps — the date and time of each event
+
+No personally identifying information is transmitted through analytics. The Application does not send health data, weight, meal contents, dietary information, or any other personally identifiable information to PostHog. Only anonymous event names and timestamps are collected, and this data cannot be used to identify any individual user.
+
+This data is used exclusively to understand how features are being used and to guide improvements to the Application.
+
+For more information on PostHog's data practices, please visit [PostHog's Privacy Policy](https://posthog.com/privacy).
+
 ## Third Party Access
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+The Application uses the following third-party services that may collect or process data:
+
+- PostHog — anonymous usage analytics (event names and timestamps only). See [PostHog's Privacy Policy](https://posthog.com/privacy).
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -51,7 +70,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-05-15
+This privacy policy is effective as of 2026-08-25
 
 ## Your Consent
 
